@@ -11,4 +11,4 @@ This is how the university looks like
 
 I am in the 1st semester 
 
-My section is BSE-!B
+My section is BSE-1B
